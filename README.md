@@ -1,5 +1,7 @@
 # CoronaMaskOn
 > Mask control with computer vision
+> This project is my modification from ulgacemre.I like the idea of this and I thought it would be cool to implement this. But all credits go to ulgacemre. He is the one who made the happen.
+
 
 ![](images/corona.png)
 
